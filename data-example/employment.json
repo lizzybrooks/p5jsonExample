@@ -1,37 +1,37 @@
 {
-    "Google_employment": [
+    "employment": [
         {
-            "job_category": "executive",
+            "job": "executive",
             "male": 27,
             "female": 4
         },
         {
-            "job_category": "manager",
+            "job": "manager",
             "male": 6798,
             "female": 3965
         },
         {
-            "job_category": "professional",
+            "job": "professional",
             "male": 24652,
             "female": 7440
         },
         {
-            "job_category": "technician",
+            "job": "technician",
             "male": 474,
             "female": 86
         },
         {
-            "job_category": "sales",
+            "job": "sales",
             "male": 1090,
             "female": 1148
         },
         {
-            "job_category": "admin",
+            "job": "admin",
             "male": 129,
             "female": 684
         },
         {
-            "job_category": "service",
+            "job": "service",
             "male": 190,
             "female": 103
         }
