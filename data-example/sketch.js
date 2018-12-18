@@ -15,8 +15,8 @@ function preload() {
 // }
 
 function setup() {
-  createCanvas(400, 400);
-  background(200);
+  createCanvas(500, 500);
+  background(220);
   // var bird = data.birds[1].members[2];
   // createP[bird];
   fill(flower.r, flower.g, flower.b);
